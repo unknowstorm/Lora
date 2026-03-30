@@ -3,7 +3,7 @@
 Lora is a personal assistant designed to automate routine tasks and enhance your leisure time. Unlike Siri or Google Assistant, it works completely offline, ensuring the absolute security of your data.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/917718b9-b8ed-47af-8c0e-4b02cd8718f5" width="1200" height="800" alt="Lora Banner">
+  <img src="https://github.com/user-attachments/assets/f1109be2-6300-42b6-afc4-dc1d890173b9" width="1200" height="800" alt="Lora Banner">
 </p>
 
 
